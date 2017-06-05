@@ -13,6 +13,9 @@ If you use this software for academic research, please cite the following paper:
 [1] W. Wang, J. Shen, F. Porikli, Saliency-aware geodesic video object segmentation, 
 IEEE CVPR, pp. 3395-3402, 2015
 
+[2] W. Wang, J. Shen, R. Yang, and F. Porikli, Saliency-aware Video Object Segmentation, 
+IEEE Trans. on Pattern Analysis and Machine Intelligence, doi://10.1109/TPAMI.2017.2662005, in press, 2017  
+
 The saliency demo code (computeSaliency.m) produces slightly different results 
 to those reported in the paper [1]. This is due to changes in the parameters and 
 the final saliency results are stored in data/outputs/(videoname)/final_saliency.
