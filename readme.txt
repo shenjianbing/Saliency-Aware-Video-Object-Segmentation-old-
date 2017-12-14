@@ -1,3 +1,5 @@
+Please check our neweast implementation in https://github.com/shenjianbing/videoseg15.
+
 Implementation code for cvpr 2015:
 [1] W. Wang, J. Shen, F. Porikli, Saliency-aware geodesic video object segmentation, 
 IEEE CVPR, pp. 3395-3402, 2015
